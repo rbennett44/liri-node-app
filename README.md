@@ -15,7 +15,7 @@ First, the user will need to go to this project in their terminal and download n
 Here, I began by navigating to the project, and typing in command "node liri.js spotify-this-song" followed by the song "'flares'".
 
 
-<img src="spotify-this-song.jpg">
+<img src="images/spotify-this-song.jpg">
 
 The app then searches Spotify for all the songs containing the world 'flares' and posts the top 20 hits.  This hits include:
 1. the artist
@@ -24,7 +24,7 @@ The app then searches Spotify for all the songs containing the world 'flares' an
 4. the album from which it is from
 
 
-<img src="spotify-results.jpg">
+<img src="images/spotify-results.jpg">
 
 ## Movie-This
 By using the same node liri.js command followed by 'movie-this' then entering a movie, you will retrieve the following result:
@@ -37,16 +37,16 @@ By using the same node liri.js command followed by 'movie-this' then entering a 
 7. the Actors.
 
 
-<img src="move-this-results.jpg">
+<img src="images/move-this-results.jpg">
 
 ## Do-What-It-Says
   If you enter the 'do-what-it-says' command, the user will be given 20 results from a Spotify search "I Want It That Way".  In this case, the app has taken in the search saved on a random text file and used it as a default search term. 
 
 
-<img src="do-what-it-says.jpg">
+<img src="images/do-what-it-says.jpg">
 
 Here are the results. 
-<img src="do-what-it-says=results.jpg">
+<img src="images/do-what-it-says=results.jpg">
 
 If the user enters a command that the app does not recognize, then the return will be "LIRI does not know that".
   
